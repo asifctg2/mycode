@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-print("ello!")
-print("Did you say, hello?")
-print("No, I said ello, but that\'s close enough.")
+name= input("what is your name? ")
+day= input("what is today?")
+print(f"Hello{name}!, Happy{day}!")
 
