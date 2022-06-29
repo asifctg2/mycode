@@ -1,0 +1,10 @@
+#!/usr/bin/env python3  
+
+Adam_Sandler 
+Born: September 9, 1966 
+Birthplace: Brooklyn
+alma mater: New York University
+occupation: Actor
+Spouse:Jackie Titone
+
+Adam_Sandler = {"Birth_Year": "1966", "Birth_city": "Brooklyn", "Alma Mater": "New_York_University", "Occupation": "Actor"}
