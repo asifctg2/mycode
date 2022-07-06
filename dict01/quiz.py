@@ -15,8 +15,12 @@ counter = 0
 for question in quiz:
     while counter < 3:
         counter +=1
+        name = input("enter your name:")
+        print("hello", name,"welcome to quiz about capital city")
         #---------------
-        input(question + ":")
+        answer = input(question + ":")
+        if answer==quiz[question]
+       
         #---------------
 
         break
